@@ -38,6 +38,5 @@ python manage.py runserver
 The project will be available at **127.0.0.1:8000**.
 
 
-## License
-
-The source code is released under the [MIT License](https://github.com/sibtc/django-upload-example/blob/master/LICENSE).
+## peference
+https://www.youtube.com/watch?v=KQJRwWpP8hs
